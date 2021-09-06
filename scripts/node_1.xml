@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+   <!-- pub -->
+   <node name="talker"pkg ="scripts"type="publisher.py"/>
+   
+   <!-- sub -->
+   <node name="listener"pkg ="script"type="subscriber.py"/>
+
+</launch>

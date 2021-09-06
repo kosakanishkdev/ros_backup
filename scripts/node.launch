@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+   <!-- pub -->
+   <node name="timer"pkg ="scripts"type="counter.py"/>
+   
+   <!-- sub -->
+   <node name="motor"pkg ="scripts"type="motor.py"/>
+
+</launch>

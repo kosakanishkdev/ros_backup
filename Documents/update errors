@@ -1,0 +1,195 @@
+Err:1 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-hardware-interface amd64 0.18.3-1bionic.20210505.020810
+  404  Not Found [IP: 140.211.166.134 80]
+Err:2 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-controller-interface amd64 0.18.3-1bionic.20210505.021044
+  404  Not Found [IP: 140.211.166.134 80]
+Err:3 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-controller-manager-msgs amd64 0.18.3-1bionic.20210505.024913
+  404  Not Found [IP: 140.211.166.134 80]
+Err:4 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-controller-manager amd64 0.18.3-1bionic.20210505.025014
+  404  Not Found [IP: 140.211.166.134 80]
+Err:5 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-diff-drive-controller amd64 0.17.2-1bionic.20210505.033402
+  404  Not Found [IP: 140.211.166.134 80]
+Err:6 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-forward-command-controller amd64 0.17.2-1bionic.20210505.031047
+  404  Not Found [IP: 140.211.166.134 80]
+Err:7 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-joint-limits-interface amd64 0.18.3-1bionic.20210505.022742
+  404  Not Found [IP: 140.211.166.134 80]
+Err:8 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-transmission-interface amd64 0.18.3-1bionic.20210505.021106
+  404  Not Found [IP: 140.211.166.134 80]
+Err:9 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-gazebo-ros-control amd64 2.8.7-1bionic.20210505.041342
+  404  Not Found [IP: 140.211.166.134 80]
+Err:10 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-joint-state-controller amd64 0.17.2-1bionic.20210505.030919
+  404  Not Found [IP: 140.211.166.134 80]
+Err:11 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-python-qt-binding amd64 0.4.3-1bionic.20210505.012216
+  404  Not Found [IP: 140.211.166.134 80]
+Err:12 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-joint-state-publisher-gui amd64 1.12.15-1bionic.20210505.032058
+  404  Not Found [IP: 140.211.166.134 80]
+Err:13 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz amd64 1.13.17-1bionic.20210505.041235
+  404  Not Found [IP: 140.211.166.134 80]
+Err:14 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-librviz-tutorial amd64 0.10.5-1bionic.20210505.050328
+  404  Not Found [IP: 140.211.166.134 80]
+Err:15 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-position-controllers amd64 0.17.2-1bionic.20210505.031508
+  404  Not Found [IP: 140.211.166.134 80]
+Err:16 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-qt-dotgraph amd64 0.4.2-1bionic.20210505.012849
+  404  Not Found [IP: 140.211.166.134 80]
+Err:17 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-qt-gui amd64 0.4.2-1bionic.20210505.012901
+  404  Not Found [IP: 140.211.166.134 80]
+Err:18 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-qt-gui-cpp amd64 0.4.2-1bionic.20210505.013751
+  404  Not Found [IP: 140.211.166.134 80]
+Err:19 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-qt-gui-py-common amd64 0.4.2-1bionic.20210505.012905
+  404  Not Found [IP: 140.211.166.134 80]
+Err:20 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-gui amd64 0.5.2-1bionic.20210505.021441
+  404  Not Found [IP: 140.211.166.134 80]
+Err:21 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-gui-py amd64 0.5.2-1bionic.20210505.022023
+  404  Not Found [IP: 140.211.166.134 80]
+Err:22 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-bag amd64 0.5.1-1bionic.20210505.030223
+  404  Not Found [IP: 140.211.166.134 80]
+Err:23 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-py-common amd64 0.5.2-1bionic.20210505.031051
+  404  Not Found [IP: 140.211.166.134 80]
+Err:24 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-plot amd64 0.4.13-1bionic.20210505.031325
+  404  Not Found [IP: 140.211.166.134 80]
+Err:25 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-bag-plugins amd64 0.5.1-1bionic.20210505.031403
+  404  Not Found [IP: 140.211.166.134 80]
+Err:26 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-logger-level amd64 0.4.8-0bionic.20210505.030208
+  404  Not Found [IP: 140.211.166.134 80]
+Err:27 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-console amd64 0.4.9-1bionic.20210505.031441
+  404  Not Found [IP: 140.211.166.134 80]
+Err:28 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-graph amd64 0.4.11-1bionic.20210505.030154
+  404  Not Found [IP: 140.211.166.134 80]
+Err:29 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-gui-cpp amd64 0.5.2-1bionic.20210505.022126
+  404  Not Found [IP: 140.211.166.134 80]
+Err:30 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-image-view amd64 0.4.16-1bionic.20210505.032821
+  404  Not Found [IP: 140.211.166.134 80]
+Err:31 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-topic amd64 0.4.11-1bionic.20210505.024955
+  404  Not Found [IP: 140.211.166.134 80]
+Err:32 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-moveit amd64 0.5.10-1bionic.20210505.031448
+  404  Not Found [IP: 140.211.166.134 80]
+Err:33 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-reconfigure amd64 0.5.4-1bionic.20210505.031528
+  404  Not Found [IP: 140.211.166.134 80]
+Err:34 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-monitor amd64 0.5.13-1bionic.20210505.031334
+  404  Not Found [IP: 140.211.166.134 80]
+Err:35 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-steering amd64 0.5.10-1bionic.20210505.024935
+  404  Not Found [IP: 140.211.166.134 80]
+Err:36 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz-plugin-tutorials amd64 0.10.5-1bionic.20210505.054826
+  404  Not Found [IP: 140.211.166.134 80]
+Err:37 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rviz-python-tutorial amd64 0.10.5-1bionic.20210505.054856
+  404  Not Found [IP: 140.211.166.134 80]
+Err:38 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-visualization-tutorials amd64 0.10.5-1bionic.20210505.055356
+  404  Not Found [IP: 140.211.166.134 80]
+Err:39 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-xacro amd64 1.13.10-1bionic.20210505.023805
+  404  Not Found [IP: 140.211.166.134 80]
+Err:40 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-robot amd64 1.4.1-0bionic.20210505.053322
+  404  Not Found [IP: 140.211.166.134 80]
+Err:41 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-urdf-tutorial amd64 0.4.0-0bionic.20210505.051938
+  404  Not Found [IP: 140.211.166.134 80]
+Err:42 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-msg amd64 0.4.8-0bionic.20210505.031540
+  404  Not Found [IP: 140.211.166.134 80]
+Err:43 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-action amd64 0.4.9-0bionic.20210505.032001
+  404  Not Found [IP: 140.211.166.134 80]
+Err:44 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-dep amd64 0.4.9-0bionic.20210505.032320
+  404  Not Found [IP: 140.211.166.134 80]
+Err:45 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-launch amd64 0.4.8-0bionic.20210505.031532
+  404  Not Found [IP: 140.211.166.134 80]
+Err:46 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-publisher amd64 0.4.8-0bionic.20210505.031447
+  404  Not Found [IP: 140.211.166.134 80]
+Err:47 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-py-console amd64 0.4.8-0bionic.20210505.022348
+  404  Not Found [IP: 140.211.166.134 80]
+Err:48 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-service-caller amd64 0.4.8-0bionic.20210505.032305
+  404  Not Found [IP: 140.211.166.134 80]
+Err:49 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-shell amd64 0.4.9-0bionic.20210505.023722
+  404  Not Found [IP: 140.211.166.134 80]
+Err:50 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-srv amd64 0.4.8-0bionic.20210505.032044
+  404  Not Found [IP: 140.211.166.134 80]
+Err:51 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-top amd64 0.4.8-0bionic.20210505.022358
+  404  Not Found [IP: 140.211.166.134 80]
+Err:52 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-web amd64 0.4.8-0bionic.20210505.022403
+  404  Not Found [IP: 140.211.166.134 80]
+Err:53 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-common-plugins amd64 0.4.8-0bionic.20210505.042624
+  404  Not Found [IP: 140.211.166.134 80]
+Err:54 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-nav-view amd64 0.5.7-0bionic.20210505.034455
+  404  Not Found [IP: 140.211.166.134 80]
+Err:55 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-pose-view amd64 0.5.8-0bionic.20210505.034714
+  404  Not Found [IP: 140.211.166.134 80]
+Err:56 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-dashboard amd64 0.5.7-0bionic.20210505.034535
+  404  Not Found [IP: 140.211.166.134 80]
+Err:57 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-runtime-monitor amd64 0.5.7-0bionic.20210505.022353
+  404  Not Found [IP: 140.211.166.134 80]
+Err:58 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-rviz amd64 0.6.0-0bionic.20210505.050255
+  404  Not Found [IP: 140.211.166.134 80]
+Err:59 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-tf-tree amd64 0.6.0-0bionic.20210505.031250
+  404  Not Found [IP: 140.211.166.134 80]
+Err:60 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-rqt-robot-plugins amd64 0.5.7-0bionic.20210505.052151
+  404  Not Found [IP: 140.211.166.134 80]
+Err:61 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-viz amd64 1.4.1-0bionic.20210505.054631
+  404  Not Found [IP: 140.211.166.134 80]
+Err:62 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-desktop amd64 1.4.1-0bionic.20210505.055437
+  404  Not Found [IP: 140.211.166.134 80]
+Err:63 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-simulators amd64 1.4.1-0bionic.20210505.054201
+  404  Not Found [IP: 140.211.166.134 80]
+Err:64 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-urdf-sim-tutorial amd64 0.4.0-0bionic.20210505.052156
+  404  Not Found [IP: 140.211.166.134 80]
+Err:65 http://packages.ros.org/ros/ubuntu bionic/main amd64 ros-melodic-desktop-full amd64 1.4.1-0bionic.20210505.055738
+  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-hardware-interface/ros-melodic-hardware-interface_0.18.3-1bionic.20210505.020810_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-controller-interface/ros-melodic-controller-interface_0.18.3-1bionic.20210505.021044_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-controller-manager-msgs/ros-melodic-controller-manager-msgs_0.18.3-1bionic.20210505.024913_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-controller-manager/ros-melodic-controller-manager_0.18.3-1bionic.20210505.025014_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-diff-drive-controller/ros-melodic-diff-drive-controller_0.17.2-1bionic.20210505.033402_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-forward-command-controller/ros-melodic-forward-command-controller_0.17.2-1bionic.20210505.031047_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-joint-limits-interface/ros-melodic-joint-limits-interface_0.18.3-1bionic.20210505.022742_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-transmission-interface/ros-melodic-transmission-interface_0.18.3-1bionic.20210505.021106_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-gazebo-ros-control/ros-melodic-gazebo-ros-control_2.8.7-1bionic.20210505.041342_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-joint-state-controller/ros-melodic-joint-state-controller_0.17.2-1bionic.20210505.030919_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-python-qt-binding/ros-melodic-python-qt-binding_0.4.3-1bionic.20210505.012216_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-joint-state-publisher-gui/ros-melodic-joint-state-publisher-gui_1.12.15-1bionic.20210505.032058_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rviz/ros-melodic-rviz_1.13.17-1bionic.20210505.041235_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-librviz-tutorial/ros-melodic-librviz-tutorial_0.10.5-1bionic.20210505.050328_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-position-controllers/ros-melodic-position-controllers_0.17.2-1bionic.20210505.031508_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-qt-dotgraph/ros-melodic-qt-dotgraph_0.4.2-1bionic.20210505.012849_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-qt-gui/ros-melodic-qt-gui_0.4.2-1bionic.20210505.012901_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-qt-gui-cpp/ros-melodic-qt-gui-cpp_0.4.2-1bionic.20210505.013751_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-qt-gui-py-common/ros-melodic-qt-gui-py-common_0.4.2-1bionic.20210505.012905_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-gui/ros-melodic-rqt-gui_0.5.2-1bionic.20210505.021441_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-gui-py/ros-melodic-rqt-gui-py_0.5.2-1bionic.20210505.022023_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-bag/ros-melodic-rqt-bag_0.5.1-1bionic.20210505.030223_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-py-common/ros-melodic-rqt-py-common_0.5.2-1bionic.20210505.031051_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-plot/ros-melodic-rqt-plot_0.4.13-1bionic.20210505.031325_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-bag-plugins/ros-melodic-rqt-bag-plugins_0.5.1-1bionic.20210505.031403_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-logger-level/ros-melodic-rqt-logger-level_0.4.8-0bionic.20210505.030208_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-console/ros-melodic-rqt-console_0.4.9-1bionic.20210505.031441_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-graph/ros-melodic-rqt-graph_0.4.11-1bionic.20210505.030154_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-gui-cpp/ros-melodic-rqt-gui-cpp_0.5.2-1bionic.20210505.022126_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-image-view/ros-melodic-rqt-image-view_0.4.16-1bionic.20210505.032821_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-topic/ros-melodic-rqt-topic_0.4.11-1bionic.20210505.024955_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-moveit/ros-melodic-rqt-moveit_0.5.10-1bionic.20210505.031448_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-reconfigure/ros-melodic-rqt-reconfigure_0.5.4-1bionic.20210505.031528_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-robot-monitor/ros-melodic-rqt-robot-monitor_0.5.13-1bionic.20210505.031334_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-robot-steering/ros-melodic-rqt-robot-steering_0.5.10-1bionic.20210505.024935_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rviz-plugin-tutorials/ros-melodic-rviz-plugin-tutorials_0.10.5-1bionic.20210505.054826_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rviz-python-tutorial/ros-melodic-rviz-python-tutorial_0.10.5-1bionic.20210505.054856_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-visualization-tutorials/ros-melodic-visualization-tutorials_0.10.5-1bionic.20210505.055356_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-xacro/ros-melodic-xacro_1.13.10-1bionic.20210505.023805_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-robot/ros-melodic-robot_1.4.1-0bionic.20210505.053322_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-urdf-tutorial/ros-melodic-urdf-tutorial_0.4.0-0bionic.20210505.051938_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-msg/ros-melodic-rqt-msg_0.4.8-0bionic.20210505.031540_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-action/ros-melodic-rqt-action_0.4.9-0bionic.20210505.032001_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-dep/ros-melodic-rqt-dep_0.4.9-0bionic.20210505.032320_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-launch/ros-melodic-rqt-launch_0.4.8-0bionic.20210505.031532_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-publisher/ros-melodic-rqt-publisher_0.4.8-0bionic.20210505.031447_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-py-console/ros-melodic-rqt-py-console_0.4.8-0bionic.20210505.022348_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-service-caller/ros-melodic-rqt-service-caller_0.4.8-0bionic.20210505.032305_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-shell/ros-melodic-rqt-shell_0.4.9-0bionic.20210505.023722_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-srv/ros-melodic-rqt-srv_0.4.8-0bionic.20210505.032044_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-top/ros-melodic-rqt-top_0.4.8-0bionic.20210505.022358_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-web/ros-melodic-rqt-web_0.4.8-0bionic.20210505.022403_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-common-plugins/ros-melodic-rqt-common-plugins_0.4.8-0bionic.20210505.042624_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-nav-view/ros-melodic-rqt-nav-view_0.5.7-0bionic.20210505.034455_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-pose-view/ros-melodic-rqt-pose-view_0.5.8-0bionic.20210505.034714_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-robot-dashboard/ros-melodic-rqt-robot-dashboard_0.5.7-0bionic.20210505.034535_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-runtime-monitor/ros-melodic-rqt-runtime-monitor_0.5.7-0bionic.20210505.022353_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-rviz/ros-melodic-rqt-rviz_0.6.0-0bionic.20210505.050255_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-tf-tree/ros-melodic-rqt-tf-tree_0.6.0-0bionic.20210505.031250_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-rqt-robot-plugins/ros-melodic-rqt-robot-plugins_0.5.7-0bionic.20210505.052151_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-viz/ros-melodic-viz_1.4.1-0bionic.20210505.054631_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-desktop/ros-melodic-desktop_1.4.1-0bionic.20210505.055437_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-simulators/ros-melodic-simulators_1.4.1-0bionic.20210505.054201_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-urdf-sim-tutorial/ros-melodic-urdf-sim-tutorial_0.4.0-0bionic.20210505.052156_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
+E: Failed to fetch http://packages.ros.org/ros/ubuntu/pool/main/r/ros-melodic-desktop-full/ros-melodic-desktop-full_1.4.1-0bionic.20210505.055738_amd64.deb  404  Not Found [IP: 140.211.166.134 80]
