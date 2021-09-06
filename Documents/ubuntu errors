@@ -1,0 +1,41 @@
+Hit:1 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Get:4 http://packages.ros.org/ros/ubuntu bionic InRelease [4,680 B]
+Err:4 http://packages.ros.org/ros/ubuntu bionic InRelease
+  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Fetched 93.4 kB in 2s (48.8 kB/s)   
+Reading package lists... Done
+W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://packages.ros.org/ros/ubuntu bionic InRelease: The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+W: Failed to fetch http://packages.ros.org/ros/ubuntu/dists/bionic/InRelease  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>Hit:1 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Get:4 http://packages.ros.org/ros/ubuntu bionic InRelease [4,680 B]
+Err:4 http://packages.ros.org/ros/ubuntu bionic InRelease
+  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Fetched 93.4 kB in 2s (48.8 kB/s)   
+Reading package lists... Done
+W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://packages.ros.org/ros/ubuntu bionic InRelease: The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+W: Failed to fetch http://packages.ros.org/ros/ubuntu/dists/bionic/InRelease  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>Hit:1 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Get:4 http://packages.ros.org/ros/ubuntu bionic InRelease [4,680 B]
+Err:4 http://packages.ros.org/ros/ubuntu bionic InRelease
+  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Fetched 93.4 kB in 2s (48.8 kB/s)   
+Reading package lists... Done
+W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://packages.ros.org/ros/ubuntu bionic InRelease: The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+W: Failed to fetch http://packages.ros.org/ros/ubuntu/dists/bionic/InRelease  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>Hit:1 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Get:4 http://packages.ros.org/ros/ubuntu bionic InRelease [4,680 B]
+Err:4 http://packages.ros.org/ros/ubuntu bionic InRelease
+  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Fetched 93.4 kB in 2s (48.8 kB/s)   
+Reading package lists... Done
+W: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. GPG error: http://packages.ros.org/ros/ubuntu bionic InRelease: The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
+W: Failed to fetch http://packages.ros.org/ros/ubuntu/dists/bionic/InRelease  The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
